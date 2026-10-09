@@ -1,0 +1,21 @@
+{
+  "name": "financialegg",
+  "metadata": {
+    "description": "סקילים בעברית לניתוח שוק ההון עם Claude: DCF, מכפילים, יחסים, איכות רווחים, כללי מחקר וגרפים."
+  },
+  "owner": {
+    "name": "הביצה הפיננסית"
+  },
+  "plugins": [
+    {
+      "name": "markets",
+      "description": "6 סקילים בעברית לניתוח חברות ציבוריות: DCF עם סקריפט חישוב, מכפילים, יחסים פיננסיים, איכות רווחים, כללי מחקר וגרפים. חומר לימוד, לא ייעוץ השקעות.",
+      "author": {
+        "name": "הביצה הפיננסית"
+      },
+      "source": "./plugins/markets",
+      "category": "finance",
+      "homepage": "https://github.com/financialegg/claude-markets-skills"
+    }
+  ]
+}

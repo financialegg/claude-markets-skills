@@ -1,0 +1,12 @@
+{
+  "name": "markets",
+  "version": "1.0.0",
+  "description": "סקילים בעברית לניתוח חברות ציבוריות: DCF, מכפילים, יחסים, איכות רווחים, כללי מחקר וגרפים.",
+  "author": {
+    "name": "הביצה הפיננסית"
+  },
+  "homepage": "https://github.com/financialegg/claude-markets-skills",
+  "repository": "https://github.com/financialegg/claude-markets-skills",
+  "license": "MIT",
+  "keywords": ["finance", "stocks", "dcf", "valuation", "hebrew", "rtl", "equity-research"]
+}
